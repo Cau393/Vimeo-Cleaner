@@ -43,6 +43,7 @@ cp .env.example .env
 Configuration (.env):
 
 ini
+
 VIMEO_TOKEN=your_vimeo_token
 
 VIMEO_KEY=your_vimeo_key
