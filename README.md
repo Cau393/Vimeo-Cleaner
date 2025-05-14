@@ -31,7 +31,7 @@ Progress bars via TQDM
 
 Setup:
 
-bash:
+```bash
 # 1. Clone repo
 git clone https://github.com/[your-username]/vimeo-video-manager.git
 
@@ -40,6 +40,8 @@ pip install -r requirements.txt
 
 # 3. Configure .env file
 cp .env.example .env
+```
+
 Configuration (.env):
 
 ini
@@ -55,8 +57,9 @@ DOWNLOAD_DIR=/path/to/save/videos
 
 Usage:
 
-bash:
+```bash:
 python vimeo_manager.py
+```
 
 ⚠️ Important:
 
