@@ -44,9 +44,14 @@ Configuration (.env):
 
 ini
 VIMEO_TOKEN=your_vimeo_token
+
 VIMEO_KEY=your_vimeo_key
+
 VIMEO_SECRET=your_vimeo_secret
+
 DOWNLOAD_DIR=/path/to/save/videos
+
+
 Usage:
 
 bash:
