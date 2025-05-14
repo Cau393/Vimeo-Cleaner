@@ -58,7 +58,9 @@ DOWNLOAD_DIR=/path/to/save/videos
 Usage:
 
 ```bash:
+
 python vimeo_manager.py
+
 ```
 
 ⚠️ Important:
